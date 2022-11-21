@@ -9,10 +9,10 @@ public class GitPracticeClass {
 		
 		System.out.println("this is the final from local");
 		
-<<<<<<< HEAD
+
 		System.out.println("last to test");
-=======
+
 		System.out.println("last final from remote repo");
->>>>>>> 8c2750f96b76aedb37dbad0fcc0aaae704065544
+
 	}
 }
