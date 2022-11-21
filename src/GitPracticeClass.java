@@ -8,7 +8,6 @@ public class GitPracticeClass {
 		System.out.println("REMOTE REPO");
 		
 		System.out.println("this is the final from local");
-		
 
 		System.out.println("last to test");
 
